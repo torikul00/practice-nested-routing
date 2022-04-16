@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Preetika Rana",
+    "title": "Uber Reaches Deal to List All New York City Taxis on Its App - The Wall Street Journal",
+    "description": "The alliance could ease Uber’s driver shortage and temper high fares while directing more business to cabdrivers, whose livelihoods were affected by the emergence of car-sharing apps and the pandemic.",
+    "url": "https://www.wsj.com/articles/uber-reaches-deal-to-list-all-new-york-city-taxis-on-its-app-11648123201",
+    "urlToImage": "https://images.wsj.net/im-509842/social",
+    "publishedAt": "2022-03-24T13:53:00Z",
+    "content": "Uber Technologies Inc. is becoming friends with a former foe.\r\nThe company has reached an agreement to list all New York City taxis on its app, an alliance that could ease the ride-hailing giants dri… [+165 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MarketWatch"
+    },
+    "author": "Greg Robb",
+    "title": "U.S. jobless claims plunge to lowest level since 1969 - MarketWatch",
+    "description": "Continuing claims fall by 67,000",
+    "url": "https://www.marketwatch.com/story/u-s-jobless-claims-fall-to-lowest-level-since-1969-11648125485",
+    "urlToImage": "https://images.mktw.net/im-511128/social",
+    "publishedAt": "2022-03-24T13:37:00Z",
+    "content": "The numbers: Initial jobless benefit claims fell by 28,000 to 187,000 in the week ended March 19, the U.S. Labor Department said Thursday.  Thats the lowest level since September 1969.Economists poll… [+1224 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Anna Cooban",
+    "title": "BlackRock says Russia's war in Ukraine is the end of globalization - CNN",
+    "description": "Russia's invasion of Ukraine has ended globalization as we know it, says the head of BlackRock, the world's largest asset manager.",
+    "url": "https://www.cnn.com/2022/03/24/business/blackrock-globalization/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220324065919-larry-fink-03092022-restricted.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2022-03-24T12:51:57Z",
+    "content": "Russias invasion of Ukraine has ended globalization as we know it, says the head of BlackRock, the worlds largest asset manager.\r\nBlackRock CEO Larry Fink told shareholders in a letter on Thursday th… [+1895 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Matthew J. Belvedere",
+    "title": "5 things to know before the stock market opens Thursday - CNBC",
+    "description": "U.S. stock futures rose Thursday as NATO leaders were trying to find ways to pressure Russia further for invading Ukraine.",
+    "url": "https://www.cnbc.com/2022/03/24/5-things-to-know-before-the-stock-market-opens-thursday-march-24.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107035635-NYSE-TF-220321-CC-PRESS-1.jpg?v=1648076039&w=1920&h=1080",
+    "publishedAt": "2022-03-24T12:15:44Z",
+    "content": "Here are the most important news, trends and analysis that investors need to start their trading day:\r\n1. Stock futures rebound after the Dow's worst session in weeks\r\nTraders on the floor of the NYS… [+3860 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Madeline Holcombe, CNN",
+    "title": "Blood pressure medication recalled over cancer risk concerns - CNN",
+    "description": "Pfizer has recalled a blood pressure medication under three names over concerns they are tainted with a possible carcinogen. The recall is voluntary, and the company is asking those who use them to consult their doctor.",
+    "url": "https://www.cnn.com/2022/03/23/health/pfizer-blood-pressure-medication-recall-wellness/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220323143727-pfizer-headquarters-restricted-super-tease.jpg",
+    "publishedAt": "2022-03-24T12:13:00Z",
+    "content": "(CNN)Pfizer has issued a recall for a high blood pressure medication distributed under three names, according to the company.\r\nAccuretic and its two generic versions distributed by Greenstone -- quin… [+922 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Peter Schacknow",
+    "title": "Stocks making the biggest moves premarket: KB Home, Spotify, Nikola and others - CNBC",
+    "description": "These are the stocks posting the largest moves before the bell.",
+    "url": "https://www.cnbc.com/2022/03/24/stocks-making-the-biggest-moves-premarket-kb-home-spotify-nikola-and-others.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107000247-1642013217369-gettyimages-1364257912-0j7a0474_79372da2-65df-43ec-a58b-95a7daef4544.jpeg?v=1642013290&w=1920&h=1080",
+    "publishedAt": "2022-03-24T11:51:28Z",
+    "content": "Check out the companies making headlines before the bell:\r\nDarden Restaurants (DRI) The parent of Olive Garden and other restaurant chains reported quarterly earnings of $1.93 per share, missing the … [+2905 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "War in Ukraine: Renault suspends Moscow plant following Zelensky's speech • FRANCE 24 English - FRANCE 24 English",
+    "description": null,
+    "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7cYnA9I5tHY",
+    "urlToImage": null,
+    "publishedAt": "2022-03-24T11:18:27Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Amelia Lucas",
+    "title": "Olive Garden parent's earnings miss estimates, company lowers fiscal 2022 outlook - CNBC",
+    "description": "Darden Restaurants, which owns Olive Garden, reported quarterly earnings and revenue that missed analysts' expectations.",
+    "url": "https://www.cnbc.com/2022/03/24/darden-restaurants-dri-q3-2022-earnings.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/104731991-GettyImages-526661336.jpg?v=1532563755&w=1920&h=1080",
+    "publishedAt": "2022-03-24T11:07:08Z",
+    "content": "Darden Restaurants on Thursday reported quarterly earnings and revenue that missed analysts' expectations, saying the omicron variant of Covid-19 led to disappointing sales for its Olive Garden chain… [+3189 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Fox Business"
+    },
+    "author": "Emma Colton",
+    "title": "Airline CEOs ask Biden to end federal mask mandate: 'Makes no sense' - Fox Business",
+    "description": "Airline CEOs send President Biden a letter calling on him to end the federal mask mandate on public transportation.",
+    "url": "https://www.foxbusiness.com/business-leaders/airline-ceos-biden-end-federal-mask-mandate-letter",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/01/0/0/TSA-officer4.jpg?ve=1&tl=1",
+    "publishedAt": "2022-03-24T11:05:55Z",
+    "content": "A group of airline CEOs sent a letter\r\n to President Biden calling on him to end the federal mask mandate on public transportation, arguing mandatory masking is\"no longer aligned with the realities o… [+3541 chars]"
+    },
+    {
+    "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Andrew J. Hawkins",
+    "title": "Polestar's most affordable EV is coming to the US - The Verge",
+    "description": "The single-motor long-range Polestar 2 is available in the US for the first time. Starting at $45,900, the electric fastback sedan can get as low as $33,400 after factoring in federal and state tax credits.",
+    "url": "https://www.theverge.com/2022/3/24/22993409/polestar-2-single-motor-long-range-us-price-specs",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/2XG1lM6z4DZlmM1jU9X6RRpsZDc=/0x86:1200x714/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23340722/642805_20211216_Electric_Car_Brand_Polestar_Opens_Showroom_in_Marin_County_California.jpg",
+    "publishedAt": "2022-03-24T11:00:00Z",
+    "content": "The single-motor Polestar 2 is now available stateside for the first time\r\nSwedish electric automaker Polestar is bringing its most affordable model to the US. The long-range, single-motor Polestar 2… [+2393 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Ryan Browne",
+    "title": "'A total disaster': Crypto firms face being booted from the UK as a key deadline approaches - CNBC",
+    "description": "Several companies, including Revolut and Copper, could soon be forced to wind down their crypto activities in Britain.",
+    "url": "https://www.cnbc.com/2022/03/24/crypto-firms-face-being-booted-from-uk-as-fca-register-deadline-nears.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107035741-1648104123430-gettyimages-1384831325-bitcoin_130322-21.jpeg?v=1648104274&w=1920&h=1080",
+    "publishedAt": "2022-03-24T10:21:26Z",
+    "content": "A novelty Bitcoin token photographed on a £10 note.\r\nLONDON A slew of cryptocurrency companies could be forced to wind down their business in the U.K. if they fail to register with the finance watchd… [+5034 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Vicky McKeever",
+    "title": "10-year Treasury yield rises back near recent high - CNBC",
+    "description": "Inflation fears and interest rate hikes remain high on the agenda for investors.",
+    "url": "https://www.cnbc.com/2022/03/24/us-bonds-treasury-yields-rise-with-nato-summit-in-focus.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107018465-Traders-TF-Photo-20220222-AJ-027-PRESS-4.jpg?v=1645549899&w=1920&h=1080",
+    "publishedAt": "2022-03-24T09:41:16Z",
+    "content": "Initial jobless claims last week totaled 187,000, the lowest level since 1969.\r\nInflation fears and interest rate hikes remain high on the agenda for investors. Federal Reserve Chairman Jerome Powell… [+1056 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Times"
+    },
+    "author": "Alex Kalman, Antonio de Luca, Maia Coleman",
+    "title": "These Are the Companies That Have Withdrawn From Russia - The New York Times",
+    "description": "More than 400 companies have withdrawn, at least temporarily, from Russia since it invaded Ukraine. Some have been there since the fall of communism — symbols of the enduring power of Western culture and commerce.",
+    "url": "https://www.nytimes.com/2022/03/24/business/companies-products-russia.html",
+    "urlToImage": "https://static01.nyt.com/images/2022/03/21/business/00russia-products-grid/00russia-products-grid-facebookJumbo.jpg",
+    "publishedAt": "2022-03-24T09:01:04Z",
+    "content": "March 4, 2022Diors parent company, LVMH Moët Hennessy Louis Vuitton, said it would temporarily close our stores in Russia and pause all our commercial activities.\r\nLVMH brands include Christian Dior,… [+571 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Internet"
+    },
+    "author": "https://www.facebook.com/thehackernews",
+    "title": "Researchers Trace LAPSUS$ Cyber Attacks to 16-Year-Old Hacker from England - The Hacker News",
+    "description": "Cybersecurity researchers have traced LAPSUS$ cyberattacks back to a 16-year-old hacker in England.",
+    "url": "https://thehackernews.com/2022/03/researchers-trace-lapsus-cyber-attacks.html",
+    "urlToImage": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEg9eHLLW8KDX7dX-Qs8h2YqdnkakjWRo91RlXU09vD-R88IdT_hs6aOF94rGZyYH_V7UP0kD9vwxZ3h_u4TrdrlEJChIVwvZ_1wt4Xe3NDl-GUhMs2fCCxZHpCRaVqp0U8yPcnnE-JlP3icbYs6OXrfxYwj66LS4aXE5VaYH6iHHlcBk12O_VJcUtig/s728-e100/hacker.jpg",
+    "publishedAt": "2022-03-24T08:45:00Z",
+    "content": "Authentication services provider Okta on Wednesday named Sitel as the third-party linked to a security incident experienced by the company in late January that allowed the LAPSUS$ extortion gang to r… [+4517 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Times"
+    },
+    "author": "Tara Siegel Bernard",
+    "title": "Everyone Has Crypto FOMO, but Does It Belong in Your Portfolio? - The New York Times",
+    "description": "A growing array of investment options make it easier to put digital tokens alongside traditional investments. Here’s what to know.",
+    "url": "https://www.nytimes.com/2022/03/24/your-money/bitcoin-investing-cryptocurrency.html",
+    "urlToImage": "https://static01.nyt.com/images/2022/03/24/business/00cryto-invest/00cryto-invest-facebookJumbo.jpg",
+    "publishedAt": "2022-03-24T07:00:10Z",
+    "content": "Other fund vehicles hold crypto directly, but theyre grappling with different structural problems and carry higher fees, which are a drag on returns.\r\nGrayscale Bitcoin Trust, the largest Bitcoin veh… [+2273 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Brenda Goodman",
+    "title": "FDA says maker of powdered infant formula didn't take steps to prevent products from becoming contaminated - CNN",
+    "description": "The US Food and Drug Administration (FDA) has determined the company running a plant at the center of a baby formula recall didn't take steps to prevent products from becoming contaminated during manufacturing, according to a preliminary report filed this mon…",
+    "url": "https://www.cnn.com/2022/03/23/health/abbott-baby-formula-fda-inspection-results/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220228165742-similac-pm-60-40.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2022-03-24T05:15:00Z",
+    "content": "The US Food and Drug Administration (FDA) has determined the company running a plant at the center of a baby formula recall didnt take steps to prevent products from becoming contaminated during manu… [+4717 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Fox Business"
+    },
+    "author": "Ken Martin",
+    "title": "Oil prices trade higher in rollercoaster week - Fox Business",
+    "description": "Oil futures traded choppy Thursday morning.",
+    "url": "https://www.foxbusiness.com/markets/oil-prices-3-24-2022",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/03/0/0/Phillips-66-refinery-A.jpg?ve=1&tl=1",
+    "publishedAt": "2022-03-24T05:00:30Z",
+    "content": "Oil futures bounced between gains and losses Thursday morning.\r\nU.S. West Texas Intermediate futures were down 39 cents, or 0.3%, to $114.54 a barrel. The price rose $5.66 to settle at $114.93 per ba… [+1082 chars]"
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "Gene Johnson",
+    "title": "High from hemp: States wrestle with chemically made THC - The Associated Press - en Español",
+    "description": "Over the past few years, Jonny Griffis has invested millions of dollars in his legal marijuana farm in northern Michigan, which produces extracts to be used in things like gummy bears and vape oils.",
+    "url": "https://apnews.com/d2de17e012674895f465694f59c81877",
+    "urlToImage": "https://storage.googleapis.com/afs-prod/media/0a92ee42d54e4cf592aca1ac0777e53f/3000.jpeg",
+    "publishedAt": "2022-03-24T04:31:40Z",
+    "content": "Over the past few years, Jonny Griffis has invested millions of dollars in his legal marijuana farm in northern Michigan, which produces extracts to be used in things like gummy bears and vape oils.\r… [+7510 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CleanTechnica"
+    },
+    "author": "Johnna Crider",
+    "title": "The Tesla Effect Is Happening In Germany - CleanTechnica",
+    "description": "The Tesla effect is happening in Germany. We've seen it in Texas and now we see it in Germany with how Tesla is helping with jobs.",
+    "url": "https://cleantechnica.com/2022/03/23/the-tesla-effect-is-happening-in-germany/",
+    "urlToImage": "https://cleantechnica.com/files/2021/10/Tesla-Giga-Berlin-body-in-white-vehicles.png",
+    "publishedAt": "2022-03-24T03:48:46Z",
+    "content": "Germany will begin to experience the well-known Tesla effect soon. I’ve written about the Tesla effect on Texas as the company started building the factory there and impacted the Austin area in a pos… [+2842 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Motor1 "
+    },
+    "author": "Jacob Oliva",
+    "title": "First Maserati Grecale One-Off Is Not From Planet Earth - Motor1 ",
+    "description": "Along with its launch, the all-new Maserati Grecale came with the marque's one-off program. The first order wasn't from the planet Earth, or so they say.",
+    "url": "https://www.motor1.com/news/575481/maserati-grecale-one-off-mars/",
+    "urlToImage": "https://cdn.motor1.com/images/mgl/40e9Zz/s1/maserati-grecale-mission-from-mars.jpg",
+    "publishedAt": "2022-03-24T03:27:00Z",
+    "content": "Maserati's latest and smallest crossover has already been launched. Just like the rest of the cars from Modena, Italy, the Grecale is part of the Fuoriserie Program so wealthy customers have the opti… [+1957 chars]"
+    }
+    ]
+}
